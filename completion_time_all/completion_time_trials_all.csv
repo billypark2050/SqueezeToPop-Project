@@ -1,0 +1,1891 @@
+subject,device,session,task,completion_time
+0,STP,1,S,7.344284
+0,STP,1,C,1.6921844
+0,STP,1,T,5.647422
+0,STP,1,SC,11.883782
+0,STP,1,ST,12.537956
+0,STP,1,CT,13.389313
+0,STP,1,SCT,18.580666
+0,STP,2,S,6.036805
+0,STP,2,C,3.2653193
+0,STP,2,T,3.614196
+0,STP,2,SC,7.691895
+0,STP,2,ST,14.126495
+0,STP,2,CT,10.465301
+0,STP,2,SCT,22.965362
+0,STP,3,S,3.7117308
+0,STP,3,C,1.9990845
+0,STP,3,T,9.66922
+0,STP,3,SC,14.474212
+0,STP,3,ST,9.893524
+0,STP,3,CT,7.846283
+0,STP,3,SCT,20.613401
+0,STP,4,S,6.21814
+0,STP,4,C,2.4584353
+0,STP,4,T,4.921752
+0,STP,4,SC,9.406189
+0,STP,4,ST,8.931091
+0,STP,4,CT,7.777404
+0,STP,4,SCT,27.060669
+0,STP,5,S,3.1260982
+0,STP,5,C,6.9138798
+0,STP,5,T,4.226136
+0,STP,5,SC,6.467163
+0,STP,5,ST,10.951294
+0,STP,5,CT,14.335144
+0,STP,5,SCT,17.300537
+0,Hand Tracking,1,S,8.945495
+0,Hand Tracking,1,C,5.104188
+0,Hand Tracking,1,T,10.393982
+0,Hand Tracking,1,SC,18.84442
+0,Hand Tracking,1,ST,23.036011
+0,Hand Tracking,1,CT,12.817566
+0,Hand Tracking,1,SCT,18.260315
+0,Hand Tracking,2,S,13.1243283
+0,Hand Tracking,2,C,4.0738521
+0,Hand Tracking,2,T,5.436829
+0,Hand Tracking,2,SC,13.011353
+0,Hand Tracking,2,ST,14.834351
+0,Hand Tracking,2,CT,13.303467
+0,Hand Tracking,2,SCT,19.515381
+0,Hand Tracking,3,S,8.3763431
+0,Hand Tracking,3,C,2.7099614
+0,Hand Tracking,3,T,7.929076
+0,Hand Tracking,3,SC,15.294434
+0,Hand Tracking,3,ST,17.620483
+0,Hand Tracking,3,CT,8.680664
+0,Hand Tracking,3,SCT,16.923951
+0,Hand Tracking,4,S,6.244385
+0,Hand Tracking,4,C,3.4327388
+0,Hand Tracking,4,T,5.019898
+0,Hand Tracking,4,SC,10.854493
+0,Hand Tracking,4,ST,12.733399
+0,Hand Tracking,4,CT,9.809204
+0,Hand Tracking,4,SCT,24.511598
+0,Hand Tracking,5,S,3.977172
+0,Hand Tracking,5,C,4.909424
+0,Hand Tracking,5,T,6.509888
+0,Hand Tracking,5,SC,18.691409
+0,Hand Tracking,5,ST,13.651489
+0,Hand Tracking,5,CT,12.411866
+0,Hand Tracking,5,SCT,22.437622
+0,Meta Controller,1,S,12.231201
+0,Meta Controller,1,C,17.647096
+0,Meta Controller,1,T,5.159546
+0,Meta Controller,1,SC,18.093994
+0,Meta Controller,1,ST,12.343629
+0,Meta Controller,1,CT,12.218017
+0,Meta Controller,1,SCT,46.355839
+0,Meta Controller,2,S,10.908692
+0,Meta Controller,2,C,6.1339104
+0,Meta Controller,2,T,11.758423
+0,Meta Controller,2,SC,23.272826
+0,Meta Controller,2,ST,28.521972
+0,Meta Controller,2,CT,19.44397
+0,Meta Controller,2,SCT,26.210201
+0,Meta Controller,3,S,8.765381
+0,Meta Controller,3,C,2.4150394
+0,Meta Controller,3,T,4.296631
+0,Meta Controller,3,SC,22.702515
+0,Meta Controller,3,ST,17.662719
+0,Meta Controller,3,CT,18.301633
+0,Meta Controller,3,SCT,56.3385
+0,Meta Controller,4,S,6.608032
+0,Meta Controller,4,C,4.2950444
+0,Meta Controller,4,T,4.393066
+0,Meta Controller,4,SC,22.560787
+0,Meta Controller,4,ST,15.379395
+0,Meta Controller,4,CT,15.00415
+0,Meta Controller,4,SCT,26.572268
+0,Meta Controller,5,S,5.8706064
+0,Meta Controller,5,C,7.358642
+0,Meta Controller,5,T,4.087158
+0,Meta Controller,5,SC,11.688965
+0,Meta Controller,5,ST,12.078858
+0,Meta Controller,5,CT,7.748535
+0,Meta Controller,5,SCT,22.465332
+1,STP,1,S,3.7125852
+1,STP,1,C,9.4756464
+1,STP,1,T,4.492066
+1,STP,1,SC,6.329163
+1,STP,1,ST,10.937927
+1,STP,1,CT,18.245849
+1,STP,1,SCT,18.007386
+1,STP,2,S,3.4884643
+1,STP,2,C,5.8038329
+1,STP,2,T,4.644836
+1,STP,2,SC,7.18927
+1,STP,2,ST,8.111267
+1,STP,2,CT,7.66455
+1,STP,2,SCT,11.480042
+1,STP,3,S,2.5020137
+1,STP,3,C,2.333008
+1,STP,3,T,4.058899
+1,STP,3,SC,7.972717
+1,STP,3,ST,9.515869
+1,STP,3,CT,9.906372
+1,STP,3,SCT,13.889283
+1,STP,4,S,2.6966557
+1,STP,4,C,1.5950928
+1,STP,4,T,3.570679
+1,STP,4,SC,6.900268
+1,STP,4,ST,10.59021
+1,STP,4,CT,14.068848
+1,STP,4,SCT,11.689209
+1,STP,5,S,3.3218998
+1,STP,5,C,5.0205078
+1,STP,5,T,4.532471
+1,STP,5,SC,5.895386
+1,STP,5,ST,7.944337
+1,STP,5,CT,8.347779
+1,STP,5,SCT,10.743165
+1,Hand Tracking,1,S,10.601471
+1,Hand Tracking,1,C,2.1394348
+1,Hand Tracking,1,T,5.036193
+1,Hand Tracking,1,SC,10.800294
+1,Hand Tracking,1,ST,11.005676
+1,Hand Tracking,1,CT,12.913635
+1,Hand Tracking,1,SCT,15.892364
+1,Hand Tracking,2,S,5.3685301
+1,Hand Tracking,2,C,2.8063351
+1,Hand Tracking,2,T,3.850221
+1,Hand Tracking,2,SC,10.436096
+1,Hand Tracking,2,ST,11.96875
+1,Hand Tracking,2,CT,7.98413
+1,Hand Tracking,2,SCT,18.135742
+1,Hand Tracking,3,S,5.870178
+1,Hand Tracking,3,C,2.2763061
+1,Hand Tracking,3,T,3.90686
+1,Hand Tracking,3,SC,9.810792
+1,Hand Tracking,3,ST,15.183228
+1,Hand Tracking,3,CT,7.665039
+1,Hand Tracking,3,SCT,17.995728
+1,Hand Tracking,4,S,5.869262
+1,Hand Tracking,4,C,3.5159909
+1,Hand Tracking,4,T,4.784058
+1,Hand Tracking,4,SC,10.045166
+1,Hand Tracking,4,ST,11.424683
+1,Hand Tracking,4,CT,9.351013
+1,Hand Tracking,4,SCT,13.847046
+1,Hand Tracking,5,S,3.1838382
+1,Hand Tracking,5,C,2.6397705
+1,Hand Tracking,5,T,5.925904
+1,Hand Tracking,5,SC,6.508912
+1,Hand Tracking,5,ST,9.921509
+1,Hand Tracking,5,CT,6.146973
+1,Hand Tracking,5,SCT,12.537354
+1,Meta Controller,1,S,4.3523561
+1,Meta Controller,1,C,7.453186
+1,Meta Controller,1,T,3.656738
+1,Meta Controller,1,SC,15.397277
+1,Meta Controller,1,ST,11.743164
+1,Meta Controller,1,CT,11.215942
+1,Meta Controller,1,SCT,13.469726
+1,Meta Controller,2,S,4.2434075
+1,Meta Controller,2,C,3.4458002
+1,Meta Controller,2,T,3.599854
+1,Meta Controller,2,SC,10.184387
+1,Meta Controller,2,ST,10.993836
+1,Meta Controller,2,CT,7.137879
+1,Meta Controller,2,SCT,18.368896
+1,Meta Controller,3,S,6.2868648
+1,Meta Controller,3,C,1.8304444
+1,Meta Controller,3,T,8.5716554
+1,Meta Controller,3,SC,9.516236
+1,Meta Controller,3,ST,10.144653
+1,Meta Controller,3,CT,7.235596
+1,Meta Controller,3,SCT,16.880494
+1,Meta Controller,4,S,6.955932
+1,Meta Controller,4,C,5.2282724
+1,Meta Controller,4,T,3.1544191
+1,Meta Controller,4,SC,7.540283
+1,Meta Controller,4,ST,8.598755
+1,Meta Controller,4,CT,7.469848
+1,Meta Controller,4,SCT,11.801147
+1,Meta Controller,5,S,4.9936523
+1,Meta Controller,5,C,4.0452878
+1,Meta Controller,5,T,2.8778079
+1,Meta Controller,5,SC,5.368164
+1,Meta Controller,5,ST,7.567993
+1,Meta Controller,5,CT,7.706421
+1,Meta Controller,5,SCT,13.874023
+2,STP,1,S,11.717591
+2,STP,1,C,5.409913
+2,STP,1,T,11.717407
+2,STP,1,SC,19.205628
+2,STP,1,ST,35.524047
+2,STP,1,CT,25.94623
+2,STP,1,SCT,36.233706
+2,STP,2,S,13.151062
+2,STP,2,C,16.799808
+2,STP,2,T,12.413514
+2,STP,2,SC,25.096617
+2,STP,2,ST,18.941712
+2,STP,2,CT,17.522278
+2,STP,2,SCT,45.490723
+2,STP,3,S,13.345581
+2,STP,3,C,7.8320313
+2,STP,3,T,14.223389
+2,STP,3,SC,38.058106
+2,STP,3,ST,25.597046
+2,STP,3,CT,20.112427
+2,STP,3,SCT,28.688603
+2,STP,4,S,12.621948
+2,STP,4,C,7.024903
+2,STP,4,T,10.715576
+2,STP,4,SC,21.017701
+2,STP,4,ST,25.123409
+2,STP,4,CT,22.214602
+2,STP,4,SCT,35.356698
+2,STP,5,S,9.822998
+2,STP,5,C,7.3459469
+2,STP,5,T,9.656616
+2,STP,5,SC,19.707885
+2,STP,5,ST,22.506715
+2,STP,5,CT,21.268314
+2,STP,5,SCT,35.955204
+2,Hand Tracking,1,S,12.732696
+2,Hand Tracking,1,C,4.0733647
+2,Hand Tracking,1,T,5.925293
+2,Hand Tracking,1,SC,16.561523
+2,Hand Tracking,1,ST,21.086762
+2,Hand Tracking,1,CT,19.207092
+2,Hand Tracking,1,SCT,42.959833
+2,Hand Tracking,2,S,16.854736
+2,Hand Tracking,2,C,4.519348
+2,Hand Tracking,2,T,6.287537
+2,Hand Tracking,2,SC,32.656192
+2,Hand Tracking,2,ST,33.114993
+2,Hand Tracking,2,CT,12.077759
+2,Hand Tracking,2,SCT,27.449405
+2,Hand Tracking,3,S,10.895142
+2,Hand Tracking,3,C,3.1694337
+2,Hand Tracking,3,T,5.814027
+2,Hand Tracking,3,SC,23.969729
+2,Hand Tracking,3,ST,36.775692
+2,Hand Tracking,3,CT,14.862732
+2,Hand Tracking,3,SCT,30.818424
+2,Hand Tracking,4,S,11.09082
+2,Hand Tracking,4,C,4.4769295
+2,Hand Tracking,4,T,8.80603
+2,Hand Tracking,4,SC,16.812744
+2,Hand Tracking,4,ST,20.779905
+2,Hand Tracking,4,CT,16.730224
+2,Hand Tracking,4,SCT,45.102537
+2,Hand Tracking,5,S,9.782105
+2,Hand Tracking,5,C,4.3804938
+2,Hand Tracking,5,T,6.176879
+2,Hand Tracking,5,SC,25.02575
+2,Hand Tracking,5,ST,29.565553
+2,Hand Tracking,5,CT,10.421387
+2,Hand Tracking,5,SCT,36.13587
+2,Meta Controller,1,S,15.699539
+2,Meta Controller,1,C,27.601055
+2,Meta Controller,1,T,6.899689
+2,Meta Controller,1,SC,52.35692
+2,Meta Controller,1,ST,23.676374
+2,Meta Controller,1,CT,34.883702
+2,Meta Controller,1,SCT,52.57816
+2,Meta Controller,2,S,22.758483
+2,Meta Controller,2,C,9.405578
+2,Meta Controller,2,T,8.040283
+2,Meta Controller,2,SC,54.84839
+2,Meta Controller,2,ST,23.467223
+2,Meta Controller,2,CT,16.937622
+2,Meta Controller,2,SCT,41.49725
+2,Meta Controller,3,S,12.05133
+2,Meta Controller,3,C,6.203003
+2,Meta Controller,3,T,9.308228
+2,Meta Controller,3,SC,40.856203
+2,Meta Controller,3,ST,20.627134
+2,Meta Controller,3,CT,26.68335
+2,Meta Controller,3,SCT,31.821165
+2,Meta Controller,4,S,19.680293
+2,Meta Controller,4,C,13.763307
+2,Meta Controller,4,T,7.583129
+2,Meta Controller,4,SC,48.73351
+2,Meta Controller,4,ST,29.134761
+2,Meta Controller,4,CT,25.653687
+2,Meta Controller,4,SCT,27.894894
+2,Meta Controller,5,S,16.060913
+2,Meta Controller,5,C,10.296875
+2,Meta Controller,5,T,7.888061
+2,Meta Controller,5,SC,29.984139
+2,Meta Controller,5,ST,20.961182
+2,Meta Controller,5,CT,23.133423
+2,Meta Controller,5,SCT,37.684079
+3,STP,1,S,3.740844
+3,STP,1,C,6.1052246
+3,STP,1,T,7.191834
+3,STP,1,SC,16.120362
+3,STP,1,ST,14.001159
+3,STP,1,CT,12.720337
+3,STP,1,SCT,18.31073
+3,STP,2,S,3.3627311
+3,STP,2,C,5.0895996
+3,STP,2,T,5.131957
+3,STP,2,SC,11.925964
+3,STP,2,ST,14.571411
+3,STP,2,CT,11.75885
+3,STP,2,SCT,20.139649
+3,STP,3,S,4.0867306
+3,STP,3,C,6.468018
+3,STP,3,T,8.514404
+3,STP,3,SC,9.766602
+3,STP,3,ST,11.981323
+3,STP,3,CT,13.611878
+3,STP,3,SCT,14.864746
+3,STP,4,S,6.023437
+3,STP,4,C,2.5839848
+3,STP,4,T,7.457764
+3,STP,4,SC,8.612427
+3,STP,4,ST,9.488159
+3,STP,4,CT,15.22522
+3,STP,4,SCT,16.283203
+3,STP,5,S,4.713867
+3,STP,5,C,6.413819
+3,STP,5,T,6.842407
+3,STP,5,SC,12.453736
+3,STP,5,ST,10.465088
+3,STP,5,CT,15.253296
+3,STP,5,SCT,21.379517
+3,Hand Tracking,1,S,10.85315
+3,Hand Tracking,1,C,4.296844
+3,Hand Tracking,1,T,6.566681
+3,Hand Tracking,1,SC,9.548217
+3,Hand Tracking,1,ST,13.706421
+3,Hand Tracking,1,CT,10.280365
+3,Hand Tracking,1,SCT,24.873319
+3,Hand Tracking,2,S,10.14325
+3,Hand Tracking,2,C,3.4467167
+3,Hand Tracking,2,T,6.635315
+3,Hand Tracking,2,SC,14.070312
+3,Hand Tracking,2,ST,14.599549
+3,Hand Tracking,2,CT,9.740417
+3,Hand Tracking,2,SCT,13.860168
+3,Hand Tracking,3,S,6.259216
+3,Hand Tracking,3,C,3.5861818
+3,Hand Tracking,3,T,6.954895
+3,Hand Tracking,3,SC,13.011475
+3,Hand Tracking,3,ST,12.231323
+3,Hand Tracking,3,CT,9.211548
+3,Hand Tracking,3,SCT,20.627625
+3,Hand Tracking,4,S,8.306153
+3,Hand Tracking,4,C,3.195618
+3,Hand Tracking,4,T,8.000488
+3,Hand Tracking,4,SC,11.200318
+3,Hand Tracking,4,ST,14.445801
+3,Hand Tracking,4,CT,8.486938
+3,Hand Tracking,4,SCT,16.201172
+3,Hand Tracking,5,S,8.598877
+3,Hand Tracking,5,C,3.8643796
+3,Hand Tracking,5,T,5.812988
+3,Hand Tracking,5,SC,10.157348
+3,Hand Tracking,5,ST,13.13855
+3,Hand Tracking,5,CT,11.256837
+3,Hand Tracking,5,SCT,19.861326
+3,Meta Controller,1,S,8.793152
+3,Meta Controller,1,C,4.1427609
+3,Meta Controller,1,T,9.100769
+3,Meta Controller,1,SC,29.354617
+3,Meta Controller,1,ST,22.354186
+3,Meta Controller,1,CT,20.084717
+3,Meta Controller,1,SCT,59.539728
+3,Meta Controller,2,S,6.356384
+3,Meta Controller,2,C,6.4971925
+3,Meta Controller,2,T,6.831177
+3,Meta Controller,2,SC,13.93042
+3,Meta Controller,2,ST,12.983521
+3,Meta Controller,2,CT,15.447632
+3,Meta Controller,2,SCT,24.71924
+3,Meta Controller,3,S,6.829713
+3,Meta Controller,3,C,6.6341554
+3,Meta Controller,3,T,7.011841
+3,Meta Controller,3,SC,17.203613
+3,Meta Controller,3,ST,13.19397
+3,Meta Controller,3,CT,15.988892
+3,Meta Controller,3,SCT,20.251343
+3,Meta Controller,4,S,5.187256
+3,Meta Controller,4,C,5.925048
+3,Meta Controller,4,T,6.579835
+3,Meta Controller,4,SC,16.784302
+3,Meta Controller,4,ST,12.679444
+3,Meta Controller,4,CT,10.602051
+3,Meta Controller,4,SCT,18.927734
+3,Meta Controller,5,S,4.377197
+3,Meta Controller,5,C,3.057373
+3,Meta Controller,5,T,5.395507
+3,Meta Controller,5,SC,9.698853
+3,Meta Controller,5,ST,11.634277
+3,Meta Controller,5,CT,8.933349
+3,Meta Controller,5,SCT,18.036499
+4,STP,1,S,5.884902
+4,STP,1,C,7.318038
+4,STP,1,T,6.005623
+4,STP,1,SC,18.288875
+4,STP,1,ST,14.070641
+4,STP,1,CT,21.894162
+4,STP,1,SCT,23.703156
+4,STP,2,S,4.0593867
+4,STP,2,C,4.6445914
+4,STP,2,T,4.755004
+4,STP,2,SC,9.335937
+4,STP,2,ST,19.722629
+4,STP,2,CT,16.270813
+4,STP,2,SCT,18.830505
+4,STP,3,S,3.8233948
+4,STP,3,C,3.0991207
+4,STP,3,T,4.477448
+4,STP,3,SC,8.320435
+4,STP,3,ST,10.644165
+4,STP,3,CT,12.273132
+4,STP,3,SCT,18.218568
+4,STP,4,S,3.3495482
+4,STP,4,C,3.1136479
+4,STP,4,T,6.912902
+4,STP,4,SC,9.377685
+4,STP,4,ST,11.135009
+4,STP,4,CT,14.697937
+4,STP,4,SCT,23.635315
+4,STP,5,S,2.3621216
+4,STP,5,C,2.68103
+4,STP,5,T,4.977051
+4,STP,5,SC,10.394654
+4,STP,5,ST,11.161926
+4,STP,5,CT,9.153564
+4,STP,5,SCT,21.462827
+4,Hand Tracking,1,S,8.540527
+4,Hand Tracking,1,C,2.0137024
+4,Hand Tracking,1,T,4.186188
+4,Hand Tracking,1,SC,12.246613
+4,Hand Tracking,1,ST,12.608184
+4,Hand Tracking,1,CT,9.058807
+4,Hand Tracking,1,SCT,18.899841
+4,Hand Tracking,2,S,8.917907
+4,Hand Tracking,2,C,3.7549441
+4,Hand Tracking,2,T,4.490967
+4,Hand Tracking,2,SC,12.648681
+4,Hand Tracking,2,ST,16.909546
+4,Hand Tracking,2,CT,10.492981
+4,Hand Tracking,2,SCT,16.686036
+4,Hand Tracking,3,S,7.051757
+4,Hand Tracking,3,C,2.7051392
+4,Hand Tracking,3,T,4.31366
+4,Hand Tracking,3,SC,9.61792
+4,Hand Tracking,3,ST,14.808654
+4,Hand Tracking,3,CT,7.763122
+4,Hand Tracking,3,SCT,16.405761
+4,Hand Tracking,4,S,15.127991
+4,Hand Tracking,4,C,1.9428711
+4,Hand Tracking,4,T,4.854431
+4,Hand Tracking,4,SC,11.744507
+4,Hand Tracking,4,ST,14.097229
+4,Hand Tracking,4,CT,8.041382
+4,Hand Tracking,4,SCT,15.002258
+4,Hand Tracking,5,S,12.250488
+4,Hand Tracking,5,C,1.9007569
+4,Hand Tracking,5,T,4.546265
+4,Hand Tracking,5,SC,10.394898
+4,Hand Tracking,5,ST,12.0094
+4,Hand Tracking,5,CT,7.400635
+4,Hand Tracking,5,SCT,13.342651
+4,Meta Controller,1,S,6.176483
+4,Meta Controller,1,C,9.8800053
+4,Meta Controller,1,T,4.560791
+4,Meta Controller,1,SC,21.671081
+4,Meta Controller,1,ST,20.821411
+4,Meta Controller,1,CT,11.271882
+4,Meta Controller,1,SCT,34.172266
+4,Meta Controller,2,S,4.115478
+4,Meta Controller,2,C,22.9938323
+4,Meta Controller,2,T,3.904725
+4,Meta Controller,2,SC,22.338867
+4,Meta Controller,2,ST,13.638122
+4,Meta Controller,2,CT,16.578796
+4,Meta Controller,2,SCT,34.326357
+4,Meta Controller,3,S,6.118163
+4,Meta Controller,3,C,14.1542955
+4,Meta Controller,3,T,4.059326
+4,Meta Controller,3,SC,16.713685
+4,Meta Controller,3,ST,9.100036
+4,Meta Controller,3,CT,5.716064
+4,Meta Controller,3,SCT,24.916501
+4,Meta Controller,4,S,14.278443
+4,Meta Controller,4,C,4.4492191
+4,Meta Controller,4,T,4.046265
+4,Meta Controller,4,SC,22.910279
+4,Meta Controller,4,ST,11.089966
+4,Meta Controller,4,CT,19.235592
+4,Meta Controller,4,SCT,19.485718
+4,Meta Controller,5,S,8.178101
+4,Meta Controller,5,C,7.610474
+4,Meta Controller,5,T,3.712402
+4,Meta Controller,5,SC,21.589595
+4,Meta Controller,5,ST,14.625732
+4,Meta Controller,5,CT,9.351319
+4,Meta Controller,5,SCT,30.914547
+5,STP,1,S,7.508728
+5,STP,1,C,13.397582
+5,STP,1,T,8.914978
+5,STP,1,SC,21.359436
+5,STP,1,ST,27.303287
+5,STP,1,CT,18.951294
+5,STP,1,SCT,39.582031
+5,STP,2,S,5.922668
+5,STP,2,C,7.063782
+5,STP,2,T,8.761291
+5,STP,2,SC,15.153809
+5,STP,2,ST,15.02533
+5,STP,2,CT,16.764465
+5,STP,2,SCT,25.868837
+5,STP,3,S,4.3481444
+5,STP,3,C,2.4132081
+5,STP,3,T,10.432496
+5,STP,3,SC,13.995239
+5,STP,3,ST,14.121338
+5,STP,3,CT,22.112305
+5,STP,3,SCT,19.481079
+5,STP,4,S,5.392944
+5,STP,4,C,3.638672
+5,STP,4,T,9.262695
+5,STP,4,SC,11.894166
+5,STP,4,ST,17.601074
+5,STP,4,CT,20.692139
+5,STP,4,SCT,26.120358
+5,STP,5,S,4.8371584
+5,STP,5,C,3.5979005
+5,STP,5,T,7.36975
+5,STP,5,SC,20.121216
+5,STP,5,ST,12.324096
+5,STP,5,CT,17.308593
+5,STP,5,SCT,19.925293
+5,Hand Tracking,1,S,15.086548
+5,Hand Tracking,1,C,4.922608
+5,Hand Tracking,1,T,9.488495
+5,Hand Tracking,1,SC,23.188048
+5,Hand Tracking,1,ST,18.776763
+5,Hand Tracking,1,CT,20.294098
+5,Hand Tracking,1,SCT,25.555234
+5,Hand Tracking,2,S,8.459839
+5,Hand Tracking,2,C,4.811218
+5,Hand Tracking,2,T,9.948791
+5,Hand Tracking,2,SC,18.636231
+5,Hand Tracking,2,ST,23.411746
+5,Hand Tracking,2,CT,14.25061
+5,Hand Tracking,2,SCT,24.344238
+5,Hand Tracking,3,S,9.990357
+5,Hand Tracking,3,C,9.127197
+5,Hand Tracking,3,T,9.377502
+5,Hand Tracking,3,SC,14.640442
+5,Hand Tracking,3,ST,24.707274
+5,Hand Tracking,3,CT,23.468204
+5,Hand Tracking,3,SCT,25.192932
+5,Hand Tracking,4,S,11.786622
+5,Hand Tracking,4,C,5.757813
+5,Hand Tracking,4,T,10.601807
+5,Hand Tracking,4,SC,14.613037
+5,Hand Tracking,4,ST,25.375122
+5,Hand Tracking,4,CT,29.482786
+5,Hand Tracking,4,SCT,36.901974
+5,Hand Tracking,5,S,13.875122
+5,Hand Tracking,5,C,6.899658
+5,Hand Tracking,5,T,7.973144
+5,Hand Tracking,5,SC,17.440186
+5,Hand Tracking,5,ST,28.853879
+5,Hand Tracking,5,CT,14.068237
+5,Hand Tracking,5,SCT,37.891235
+5,Meta Controller,1,S,7.37445
+5,Meta Controller,1,C,12.1480105
+5,Meta Controller,1,T,7.652771
+5,Meta Controller,1,SC,28.882389
+5,Meta Controller,1,ST,18.956421
+5,Meta Controller,1,CT,14.389953
+5,Meta Controller,1,SCT,34.269591
+5,Meta Controller,2,S,12.997559
+5,Meta Controller,2,C,2.5842893
+5,Meta Controller,2,T,6.913391
+5,Meta Controller,2,SC,14.876098
+5,Meta Controller,2,ST,12.149109
+5,Meta Controller,2,CT,23.509464
+5,Meta Controller,2,SCT,38.39289
+5,Meta Controller,3,S,11.142578
+5,Meta Controller,3,C,9.0300289
+5,Meta Controller,3,T,9.268188
+5,Meta Controller,3,SC,16.812256
+5,Meta Controller,3,ST,16.382325
+5,Meta Controller,3,CT,43.268189
+5,Meta Controller,3,SCT,31.638435
+5,Meta Controller,4,S,8.166748
+5,Meta Controller,4,C,6.5095215
+5,Meta Controller,4,T,18.163332
+5,Meta Controller,4,SC,17.021485
+5,Meta Controller,4,ST,24.706668
+5,Meta Controller,4,CT,21.183838
+5,Meta Controller,4,SCT,33.867439
+5,Meta Controller,5,S,11.452881
+5,Meta Controller,5,C,4.741089
+5,Meta Controller,5,T,6.871826
+5,Meta Controller,5,SC,22.965211
+5,Meta Controller,5,ST,17.509151
+5,Meta Controller,5,CT,16.715576
+5,Meta Controller,5,SCT,28.896732
+6,STP,1,S,2.3917847
+6,STP,1,C,5.2292787
+6,STP,1,T,8.194886
+6,STP,1,SC,14.264588
+6,STP,1,ST,14.208954
+6,STP,1,CT,18.13379
+6,STP,1,SCT,17.160889
+6,STP,2,S,2.6132812
+6,STP,2,C,1.9708863
+6,STP,2,T,4.938049
+6,STP,2,SC,9.531372
+6,STP,2,ST,8.540039
+6,STP,2,CT,11.814392
+6,STP,2,SCT,13.554505
+6,STP,3,S,3.0431521
+6,STP,3,C,2.6533203
+6,STP,3,T,6.035706
+6,STP,3,SC,11.466796
+6,STP,3,ST,10.490966
+6,STP,3,CT,10.57544
+6,STP,3,SCT,16.060913
+6,STP,4,S,3.0422365
+6,STP,4,C,6.8583985
+6,STP,4,T,4.993531
+6,STP,4,SC,8.083497
+6,STP,4,ST,11.689087
+6,STP,4,CT,11.103272
+6,STP,4,SCT,13.136841
+6,STP,5,S,2.8208007
+6,STP,5,C,4.4211422
+6,STP,5,T,9.447265
+6,STP,5,SC,11.341187
+6,STP,5,ST,12.385009
+6,STP,5,CT,11.422607
+6,STP,5,SCT,16.090821
+6,Hand Tracking,1,S,9.266846
+6,Hand Tracking,1,C,4.1028137
+6,Hand Tracking,1,T,4.978759
+6,Hand Tracking,1,SC,8.194245
+6,Hand Tracking,1,ST,15.350647
+6,Hand Tracking,1,CT,9.154022
+6,Hand Tracking,1,SCT,18.622253
+6,Hand Tracking,2,S,7.99884
+6,Hand Tracking,2,C,2.6123658
+6,Hand Tracking,2,T,5.605469
+6,Hand Tracking,2,SC,8.806946
+6,Hand Tracking,2,ST,10.395264
+6,Hand Tracking,2,CT,10.170716
+6,Hand Tracking,2,SCT,14.973938
+6,Hand Tracking,3,S,9.670532
+6,Hand Tracking,3,C,4.3378302
+6,Hand Tracking,3,T,7.539795
+6,Hand Tracking,3,SC,19.74957
+6,Hand Tracking,3,ST,12.789184
+6,Hand Tracking,3,CT,7.24823
+6,Hand Tracking,3,SCT,20.071044
+6,Hand Tracking,4,S,6.760986
+6,Hand Tracking,4,C,3.1945798
+6,Hand Tracking,4,T,4.532104
+6,Hand Tracking,4,SC,9.366088
+6,Hand Tracking,4,ST,12.774169
+6,Hand Tracking,4,CT,12.510499
+6,Hand Tracking,4,SCT,13.722656
+6,Hand Tracking,5,S,6.327881
+6,Hand Tracking,5,C,2.5854494
+6,Hand Tracking,5,T,8.501464
+6,Hand Tracking,5,SC,8.500733
+6,Hand Tracking,5,ST,16.881714
+6,Hand Tracking,5,CT,8.709839
+6,Hand Tracking,5,SCT,15.378052
+6,Meta Controller,1,S,5.423768
+6,Meta Controller,1,C,9.1835329
+6,Meta Controller,1,T,5.034362
+6,Meta Controller,1,SC,15.364379
+6,Meta Controller,1,ST,17.760436
+6,Meta Controller,1,CT,13.067139
+6,Meta Controller,1,SCT,27.629951
+6,Meta Controller,2,S,7.178955
+6,Meta Controller,2,C,6.857605
+6,Meta Controller,2,T,4.95105
+6,Meta Controller,2,SC,15.656921
+6,Meta Controller,2,ST,11.578246
+6,Meta Controller,2,CT,26.320435
+6,Meta Controller,2,SCT,23.578796
+6,Meta Controller,3,S,7.289185
+6,Meta Controller,3,C,6.2858889
+6,Meta Controller,3,T,5.131715
+6,Meta Controller,3,SC,16.338868
+6,Meta Controller,3,ST,15.086303
+6,Meta Controller,3,CT,13.750855
+6,Meta Controller,3,SCT,20.363037
+6,Meta Controller,4,S,11.981324
+6,Meta Controller,4,C,1.8465575
+6,Meta Controller,4,T,4.462769
+6,Meta Controller,4,SC,18.03772
+6,Meta Controller,4,ST,15.364379
+6,Meta Controller,4,CT,20.780639
+6,Meta Controller,4,SCT,18.858642
+6,Meta Controller,5,S,7.888549
+6,Meta Controller,5,C,3.3778074
+6,Meta Controller,5,T,5.187256
+6,Meta Controller,5,SC,26.655395
+6,Meta Controller,5,ST,10.560181
+6,Meta Controller,5,CT,17.689208
+6,Meta Controller,5,SCT,15.476807
+7,STP,1,S,4.783692
+7,STP,1,C,2.7784424
+7,STP,1,T,7.122804
+7,STP,1,SC,10.352539
+7,STP,1,ST,10.798707
+7,STP,1,CT,12.315796
+7,STP,1,SCT,23.494815
+7,STP,2,S,3.3903808
+7,STP,2,C,1.3856201
+7,STP,2,T,6.386231
+7,STP,2,SC,13.515747
+7,STP,2,ST,10.530762
+7,STP,2,CT,10.325806
+7,STP,2,SCT,17.925538
+7,STP,3,S,3.6171872
+7,STP,3,C,3.6965332
+7,STP,3,T,10.227539
+7,STP,3,SC,10.503417
+7,STP,3,ST,10.365845
+7,STP,3,CT,12.246827
+7,STP,3,SCT,14.737426
+7,STP,4,S,6.369262
+7,STP,4,C,2.8345951
+7,STP,4,T,5.298584
+7,STP,4,SC,9.880004
+7,STP,4,ST,12.092529
+7,STP,4,CT,14.53601
+7,STP,4,SCT,20.565063
+7,STP,5,S,3.3364252
+7,STP,5,C,6.3416752
+7,STP,5,T,9.961304
+7,STP,5,SC,8.222778
+7,STP,5,ST,12.288818
+7,STP,5,CT,10.769165
+7,STP,5,SCT,15.128052
+7,Hand Tracking,1,S,8.096864
+7,Hand Tracking,1,C,6.37091
+7,Hand Tracking,1,T,6.718323
+7,Hand Tracking,1,SC,11.925721
+7,Hand Tracking,1,ST,14.293396
+7,Hand Tracking,1,CT,12.202515
+7,Hand Tracking,1,SCT,25.5983
+7,Hand Tracking,2,S,9.099426
+7,Hand Tracking,2,C,3.5307013
+7,Hand Tracking,2,T,7.803956
+7,Hand Tracking,2,SC,21.643491
+7,Hand Tracking,2,ST,22.980037
+7,Hand Tracking,2,CT,13.666322
+7,Hand Tracking,2,SCT,19.75061
+7,Hand Tracking,3,S,9.657227
+7,Hand Tracking,3,C,3.2785031
+7,Hand Tracking,3,T,6.552063
+7,Hand Tracking,3,SC,10.922302
+7,Hand Tracking,3,ST,16.881774
+7,Hand Tracking,3,CT,9.571839
+7,Hand Tracking,3,SCT,19.222839
+7,Hand Tracking,4,S,7.415283
+7,Hand Tracking,4,C,3.726929
+7,Hand Tracking,4,T,8.931763
+7,Hand Tracking,4,SC,9.156739
+7,Hand Tracking,4,ST,13.177856
+7,Hand Tracking,4,CT,9.390991
+7,Hand Tracking,4,SCT,18.468994
+7,Hand Tracking,5,S,12.3573
+7,Hand Tracking,5,C,3.3222652
+7,Hand Tracking,5,T,6.160522
+7,Hand Tracking,5,SC,12.372559
+7,Hand Tracking,5,ST,20.097778
+7,Hand Tracking,5,CT,11.29956
+7,Hand Tracking,5,SCT,16.742797
+7,Meta Controller,1,S,9.307313
+7,Meta Controller,1,C,5.0077507
+7,Meta Controller,1,T,5.896912
+7,Meta Controller,1,SC,21.045227
+7,Meta Controller,1,ST,18.929383
+7,Meta Controller,1,CT,9.892945
+7,Meta Controller,1,SCT,30.858705
+7,Meta Controller,2,S,7.482056
+7,Meta Controller,2,C,7.52771
+7,Meta Controller,2,T,8.069947
+7,Meta Controller,2,SC,22.492432
+7,Meta Controller,2,ST,18.065674
+7,Meta Controller,2,CT,13.414917
+7,Meta Controller,2,SCT,27.450315
+7,Meta Controller,3,S,10.143677
+7,Meta Controller,3,C,2.1668702
+7,Meta Controller,3,T,6.914918
+7,Meta Controller,3,SC,21.503666
+7,Meta Controller,3,ST,13.116089
+7,Meta Controller,3,CT,25.226436
+7,Meta Controller,3,SCT,30.179198
+7,Meta Controller,4,S,11.494995
+7,Meta Controller,4,C,4.7416993
+7,Meta Controller,4,T,6.010376
+7,Meta Controller,4,SC,19.47229
+7,Meta Controller,4,ST,16.199707
+7,Meta Controller,4,CT,10.325561
+7,Meta Controller,4,SCT,20.861085
+7,Meta Controller,5,S,6.564697
+7,Meta Controller,5,C,4.9779052
+7,Meta Controller,5,T,4.993775
+7,Meta Controller,5,SC,11.327758
+7,Meta Controller,5,ST,12.802368
+7,Meta Controller,5,CT,12.57959
+7,Meta Controller,5,SCT,16.144287
+8,STP,1,S,10.728271
+8,STP,1,C,7.0671389
+8,STP,1,T,10.477417
+8,STP,1,SC,11.577271
+8,STP,1,ST,11.244018
+8,STP,1,CT,22.228393
+8,STP,1,SCT,24.037598
+8,STP,2,S,6.5383297
+8,STP,2,C,15.740354905
+8,STP,2,T,10.966187
+8,STP,2,SC,23.022095
+8,STP,2,ST,19.956908
+8,STP,2,CT,18.829468
+8,STP,2,SCT,19.473267
+8,STP,3,S,2.9041751
+8,STP,3,C,0.831420905
+8,STP,3,T,6.78833
+8,STP,3,SC,14.250366
+8,STP,3,ST,9.085204
+8,STP,3,CT,11.132569
+8,STP,3,SCT,22.240844
+8,STP,4,S,2.2220454
+8,STP,4,C,3.8793951
+8,STP,4,T,4.210938
+8,STP,4,SC,8.877197
+8,STP,4,ST,11.035156
+8,STP,4,CT,11.827392
+8,STP,4,SCT,15.323609
+8,STP,5,S,3.4327392
+8,STP,5,C,0.31506353
+8,STP,5,T,4.936157
+8,STP,5,SC,10.19922
+8,STP,5,ST,8.918701
+8,STP,5,CT,11.717041
+8,STP,5,SCT,9.364258
+8,Hand Tracking,1,S,12.941284
+8,Hand Tracking,1,C,4.7426444
+8,Hand Tracking,1,T,8.360748
+8,Hand Tracking,1,SC,11.202515
+8,Hand Tracking,1,ST,13.388549
+8,Hand Tracking,1,CT,15.393524
+8,Hand Tracking,1,SCT,30.092809
+8,Hand Tracking,2,S,12.649659
+8,Hand Tracking,2,C,3.8223274
+8,Hand Tracking,2,T,7.456116
+8,Hand Tracking,2,SC,9.586121
+8,Hand Tracking,2,ST,16.131226
+8,Hand Tracking,2,CT,11.383118
+8,Hand Tracking,2,SCT,29.538206
+8,Hand Tracking,3,S,7.233703
+8,Hand Tracking,3,C,10.64392
+8,Hand Tracking,3,T,5.522034
+8,Hand Tracking,3,SC,9.851257
+8,Hand Tracking,3,ST,14.793517
+8,Hand Tracking,3,CT,8.584718
+8,Hand Tracking,3,SCT,21.309628
+8,Hand Tracking,4,S,8.862061
+8,Hand Tracking,4,C,3.9484862
+8,Hand Tracking,4,T,7.623902
+8,Hand Tracking,4,SC,11.925904
+8,Hand Tracking,4,ST,11.772705
+8,Hand Tracking,4,CT,8.8208
+8,Hand Tracking,4,SCT,20.80835
+8,Hand Tracking,5,S,13.150879
+8,Hand Tracking,5,C,4.783935
+8,Hand Tracking,5,T,6.746582
+8,Hand Tracking,5,SC,10.130616
+8,Hand Tracking,5,ST,16.602539
+8,Hand Tracking,5,CT,7.888794
+8,Hand Tracking,5,SCT,21.170044
+8,Meta Controller,1,S,9.657166
+8,Meta Controller,1,C,10.2268068
+8,Meta Controller,1,T,5.102905
+8,Meta Controller,1,SC,40.118592
+8,Meta Controller,1,ST,51.883725
+8,Meta Controller,1,CT,26.724548
+8,Meta Controller,1,SCT,36.749935
+8,Meta Controller,2,S,7.997437
+8,Meta Controller,2,C,8.907471
+8,Meta Controller,2,T,19.136838
+8,Meta Controller,2,SC,22.659732
+8,Meta Controller,2,ST,16.575074
+8,Meta Controller,2,CT,12.510132
+8,Meta Controller,2,SCT,38.198609
+8,Meta Controller,3,S,6.399536
+8,Meta Controller,3,C,6.134033345
+8,Meta Controller,3,T,9.465576
+8,Meta Controller,3,SC,22.812497
+8,Meta Controller,3,ST,19.205198
+8,Meta Controller,3,CT,12.19043
+8,Meta Controller,3,SCT,19.290894
+8,Meta Controller,4,S,10.673218
+8,Meta Controller,4,C,7.3171377
+8,Meta Controller,4,T,9.642335
+8,Meta Controller,4,SC,16.422607
+8,Meta Controller,4,ST,24.80444
+8,Meta Controller,4,CT,10.003174
+8,Meta Controller,4,SCT,30.66553
+8,Meta Controller,5,S,4.295044
+8,Meta Controller,5,C,4.36401362
+8,Meta Controller,5,T,5.021607
+8,Meta Controller,5,SC,11.549804
+8,Meta Controller,5,ST,8.278931
+8,Meta Controller,5,CT,10.548828
+8,Meta Controller,5,SCT,20.390385
+9,STP,1,S,3.6277462
+9,STP,1,C,2.555907734
+9,STP,1,T,4.895264
+9,STP,1,SC,14.584717
+9,STP,1,ST,7.860229
+9,STP,1,CT,8.403747
+9,STP,1,SCT,19.095521
+9,STP,2,S,2.6258546
+9,STP,2,C,4.5336303
+9,STP,2,T,4.170777
+9,STP,2,SC,8.013733
+9,STP,2,ST,8.080689
+9,STP,2,CT,9.781128
+9,STP,2,SCT,12.387512
+9,STP,3,S,4.199341
+9,STP,3,C,1.8032231
+9,STP,3,T,5.367675
+9,STP,3,SC,18.582882
+9,STP,3,ST,10.784545
+9,STP,3,CT,11.968384
+9,STP,3,SCT,13.874878
+9,STP,4,S,5.0754397
+9,STP,4,C,1.9016113
+9,STP,4,T,7.275757
+9,STP,4,SC,8.835326
+9,STP,4,ST,9.294312
+9,STP,4,CT,7.011474
+9,STP,4,SCT,19.861451
+9,STP,5,S,2.6810302
+9,STP,5,C,2.7930912
+9,STP,5,T,4.978638
+9,STP,5,SC,7.511474
+9,STP,5,ST,7.943482
+9,STP,5,CT,9.683716
+9,STP,5,SCT,12.929199
+9,Hand Tracking,1,S,14.974091
+9,Hand Tracking,1,C,3.0294187
+9,Hand Tracking,1,T,4.7836
+9,Hand Tracking,1,SC,11.92636
+9,Hand Tracking,1,ST,11.785767
+9,Hand Tracking,1,CT,10.463776
+9,Hand Tracking,1,SCT,27.337889
+9,Hand Tracking,2,S,5.771545
+9,Hand Tracking,2,C,2.8766482
+9,Hand Tracking,2,T,4.351929
+9,Hand Tracking,2,SC,10.004639
+9,Hand Tracking,2,ST,18.051453
+9,Hand Tracking,2,CT,10.046691
+9,Hand Tracking,2,SCT,21.76892
+9,Hand Tracking,3,S,10.51892
+9,Hand Tracking,3,C,2.6946411
+9,Hand Tracking,3,T,4.212463
+9,Hand Tracking,3,SC,13.499817
+9,Hand Tracking,3,ST,13.472595
+9,Hand Tracking,3,CT,9.93335
+9,Hand Tracking,3,SCT,15.2677
+9,Hand Tracking,4,S,9.683166
+9,Hand Tracking,4,C,2.8342289
+9,Hand Tracking,4,T,5.786865
+9,Hand Tracking,4,SC,14.209839
+9,Hand Tracking,4,ST,17.076904
+9,Hand Tracking,4,CT,8.862793
+9,Hand Tracking,4,SCT,16.018432
+9,Hand Tracking,5,S,13.220582
+9,Hand Tracking,5,C,2.0827637
+9,Hand Tracking,5,T,6.607421
+9,Hand Tracking,5,SC,13.512939
+9,Hand Tracking,5,ST,11.967408
+9,Hand Tracking,5,CT,8.959472
+9,Hand Tracking,5,SCT,17.467651
+9,Meta Controller,1,S,4.3819581
+9,Meta Controller,1,C,7.0660401
+9,Meta Controller,1,T,5.787476
+9,Meta Controller,1,SC,22.492187
+9,Meta Controller,1,ST,20.933716
+9,Meta Controller,1,CT,10.212158
+9,Meta Controller,1,SCT,18.315186
+9,Meta Controller,2,S,6.5773921
+9,Meta Controller,2,C,2.5145265
+9,Meta Controller,2,T,4.630615
+9,Meta Controller,2,SC,42.97338
+9,Meta Controller,2,ST,10.088379
+9,Meta Controller,2,CT,13.667725
+9,Meta Controller,2,SCT,13.734741
+9,Meta Controller,3,S,6.8580319
+9,Meta Controller,3,C,1.8178714
+9,Meta Controller,3,T,4.783569
+9,Meta Controller,3,SC,12.023193
+9,Meta Controller,3,ST,11.926026
+9,Meta Controller,3,CT,18.748778
+9,Meta Controller,3,SCT,22.743165
+9,Meta Controller,4,S,3.098999
+9,Meta Controller,4,C,8.416992
+9,Meta Controller,4,T,5.269654
+9,Meta Controller,4,SC,13.526367
+9,Meta Controller,4,ST,10.418457
+9,Meta Controller,4,CT,17.286983
+9,Meta Controller,4,SCT,17.509522
+9,Meta Controller,5,S,5.3251952
+9,Meta Controller,5,C,5.0478511
+9,Meta Controller,5,T,4.769531
+9,Meta Controller,5,SC,7.720947
+9,Meta Controller,5,ST,11.857422
+9,Meta Controller,5,CT,19.708007
+9,Meta Controller,5,SCT,13.360107
+10,STP,1,S,4.6156003
+10,STP,1,C,3.822509
+10,STP,1,T,7.707032
+10,STP,1,SC,8.933044
+10,STP,1,ST,8.612121
+10,STP,1,CT,9.379089
+10,STP,1,SCT,16.102234
+10,STP,2,S,2.7785645
+10,STP,2,C,3.7532963
+10,STP,2,T,9.168946
+10,STP,2,SC,10.198975
+10,STP,2,ST,9.391724
+10,STP,2,CT,20.65552
+10,STP,2,SCT,14.097779
+10,STP,3,S,2.6530762
+10,STP,3,C,6.788453
+10,STP,3,T,4.992798
+10,STP,3,SC,13.762207
+10,STP,3,ST,7.568481
+10,STP,3,CT,11.410645
+10,STP,3,SCT,17.13269
+10,STP,4,S,3.5155026
+10,STP,4,C,6.0924078
+10,STP,4,T,6.287841
+10,STP,4,SC,4.630249
+10,STP,4,ST,7.581787
+10,STP,4,CT,12.204102
+10,STP,4,SCT,20.238525
+10,STP,5,S,2.1662598
+10,STP,5,C,3.2103269
+10,STP,5,T,4.267456
+10,STP,5,SC,6.53833
+10,STP,5,ST,8.305786
+10,STP,5,CT,12.037842
+10,STP,5,SCT,39.909424
+10,Hand Tracking,1,S,5.549651
+10,Hand Tracking,1,C,2.3452453
+10,Hand Tracking,1,T,7.52655
+10,Hand Tracking,1,SC,10.199249
+10,Hand Tracking,1,ST,15.881623
+10,Hand Tracking,1,CT,8.486145
+10,Hand Tracking,1,SCT,20.056854
+10,Hand Tracking,2,S,4.0598761
+10,Hand Tracking,2,C,2.6810916
+10,Hand Tracking,2,T,4.283204
+10,Hand Tracking,2,SC,8.306092
+10,Hand Tracking,2,ST,21.880371
+10,Hand Tracking,2,CT,13.512818
+10,Hand Tracking,2,SCT,31.680727
+10,Hand Tracking,3,S,7.999145
+10,Hand Tracking,3,C,4.1712041
+10,Hand Tracking,3,T,4.087158
+10,Hand Tracking,3,SC,6.232056
+10,Hand Tracking,3,ST,8.765869
+10,Hand Tracking,3,CT,10.15741
+10,Hand Tracking,3,SCT,18.13501
+10,Hand Tracking,4,S,10.519654
+10,Hand Tracking,4,C,2.5827028
+10,Hand Tracking,4,T,6.802611
+10,Hand Tracking,4,SC,8.028076
+10,Hand Tracking,4,ST,14.320679
+10,Hand Tracking,4,CT,11.717346
+10,Hand Tracking,4,SCT,18.009521
+10,Hand Tracking,5,S,9.713379
+10,Hand Tracking,5,C,4.5758055
+10,Hand Tracking,5,T,4.421387
+10,Hand Tracking,5,SC,13.094238
+10,Hand Tracking,5,ST,13.55542
+10,Hand Tracking,5,CT,9.683594
+10,Hand Tracking,5,SCT,27.016476
+10,Meta Controller,1,S,6.815369
+10,Meta Controller,1,C,2.4453127
+10,Meta Controller,1,T,6.313477
+10,Meta Controller,1,SC,19.971802
+10,Meta Controller,1,ST,13.083191
+10,Meta Controller,1,CT,19.70874
+10,Meta Controller,1,SCT,27.797359
+10,Meta Controller,2,S,7.164917
+10,Meta Controller,2,C,6.2604374
+10,Meta Controller,2,T,5.618835
+10,Meta Controller,2,SC,5.409729
+10,Meta Controller,2,ST,16.42218
+10,Meta Controller,2,CT,14.249878
+10,Meta Controller,2,SCT,18.524902
+10,Meta Controller,3,S,3.641967016
+10,Meta Controller,3,C,2.47167977
+10,Meta Controller,3,T,5.31189
+10,Meta Controller,3,SC,11.049194
+10,Meta Controller,3,ST,10.34143
+10,Meta Controller,3,CT,8.514892
+10,Meta Controller,3,SCT,46.995734
+10,Meta Controller,4,S,6.801269
+10,Meta Controller,4,C,10.088867
+10,Meta Controller,4,T,4.880248
+10,Meta Controller,4,SC,13.262574
+10,Meta Controller,4,ST,9.697998
+10,Meta Controller,4,CT,4.964722
+10,Meta Controller,4,SCT,17.74585
+10,Meta Controller,5,S,5.423828
+10,Meta Controller,5,C,2.7232667
+10,Meta Controller,5,T,3.5860594
+10,Meta Controller,5,SC,9.296387
+10,Meta Controller,5,ST,11.714843
+10,Meta Controller,5,CT,10.979736
+10,Meta Controller,5,SCT,26.167971
+11,STP,1,S,2.3465574
+11,STP,1,C,4.7002257
+11,STP,1,T,6.664978
+11,STP,1,SC,6.371368
+11,STP,1,ST,7.232666
+11,STP,1,CT,10.12854
+11,STP,1,SCT,12.997376
+11,STP,2,S,3.1417842
+11,STP,2,C,1.4421997
+11,STP,2,T,4.421693
+11,STP,2,SC,9.279664
+11,STP,2,ST,7.539124
+11,STP,2,CT,14.543339
+11,STP,2,SCT,12.343689
+11,STP,3,S,1.538208
+11,STP,3,C,2.70752
+11,STP,3,T,4.129151
+11,STP,3,SC,5.454163
+11,STP,3,ST,6.719604
+11,STP,3,CT,8.710266
+11,STP,3,SCT,9.558167
+11,STP,4,S,2.4436649
+11,STP,4,C,1.2073364
+11,STP,4,T,3.959411
+11,STP,4,SC,6.440552
+11,STP,4,ST,6.747986
+11,STP,4,CT,8.5849
+11,STP,4,SCT,14.6828
+11,STP,5,S,1.651123
+11,STP,5,C,2.444946
+11,STP,5,T,3.697632
+11,STP,5,SC,8.612183
+11,STP,5,ST,7.442627
+11,STP,5,CT,10.005616
+11,STP,5,SCT,11.562744
+11,Hand Tracking,1,S,14.50287
+11,Hand Tracking,1,C,3.8367309
+11,Hand Tracking,1,T,4.240723
+11,Hand Tracking,1,SC,7.608154
+11,Hand Tracking,1,ST,8.8768
+11,Hand Tracking,1,CT,9.725647
+11,Hand Tracking,1,SCT,16.422744
+11,Hand Tracking,2,S,5.855621
+11,Hand Tracking,2,C,2.7644353
+11,Hand Tracking,2,T,4.379578
+11,Hand Tracking,2,SC,6.092285
+11,Hand Tracking,2,ST,11.550201
+11,Hand Tracking,2,CT,7.039123
+11,Hand Tracking,2,SCT,14.139282
+11,Hand Tracking,3,S,7.262756
+11,Hand Tracking,3,C,3.9458625
+11,Hand Tracking,3,T,3.864929
+11,Hand Tracking,3,SC,6.941345
+11,Hand Tracking,3,ST,10.480103
+11,Hand Tracking,3,CT,7.874146
+11,Hand Tracking,3,SCT,13.08081
+11,Hand Tracking,4,S,4.421814
+11,Hand Tracking,4,C,2.4847417
+11,Hand Tracking,4,T,3.5316163
+11,Hand Tracking,4,SC,8.333008
+11,Hand Tracking,4,ST,9.252991
+11,Hand Tracking,4,CT,9.726867
+11,Hand Tracking,4,SCT,16.61731
+11,Hand Tracking,5,S,2.7225949
+11,Hand Tracking,5,C,3.9061892
+11,Hand Tracking,5,T,5.173279
+11,Hand Tracking,5,SC,5.479859
+11,Hand Tracking,5,ST,7.917175
+11,Hand Tracking,5,CT,6.134521
+11,Hand Tracking,5,SCT,10.532838
+11,Meta Controller,1,S,1.371520652
+11,Meta Controller,1,C,2.48547327
+11,Meta Controller,1,T,3.962738
+11,Meta Controller,1,SC,2.95962527
+11,Meta Controller,1,ST,9.224854
+11,Meta Controller,1,CT,8.612733
+11,Meta Controller,1,SCT,12.984894
+11,Meta Controller,2,S,9.9079593
+11,Meta Controller,2,C,1.3724366
+11,Meta Controller,2,T,4.072265
+11,Meta Controller,2,SC,9.8114623
+11,Meta Controller,2,ST,10.142822
+11,Meta Controller,2,CT,9.724671
+11,Meta Controller,2,SCT,18.052125
+11,Meta Controller,3,S,3.68341
+11,Meta Controller,3,C,1.0204468
+11,Meta Controller,3,T,3.418457
+11,Meta Controller,3,SC,9.546081
+11,Meta Controller,3,ST,6.119507
+11,Meta Controller,3,CT,8.964844
+11,Meta Controller,3,SCT,12.63562
+11,Meta Controller,4,S,4.0321657
+11,Meta Controller,4,C,4.0459597
+11,Meta Controller,4,T,3.961365
+11,Meta Controller,4,SC,7.916382
+11,Meta Controller,4,ST,11.35498
+11,Meta Controller,4,CT,7.832703
+11,Meta Controller,4,SCT,15.726624
+11,Meta Controller,5,S,3.6820072
+11,Meta Controller,5,C,3.4600827
+11,Meta Controller,5,T,4.046631
+11,Meta Controller,5,SC,5.062134
+11,Meta Controller,5,ST,8.224243
+11,Meta Controller,5,CT,5.673951
+11,Meta Controller,5,SCT,15.155884
+12,STP,1,S,4.157044
+12,STP,1,C,4.896179251
+12,STP,1,T,4.7269896
+12,STP,1,SC,14.08548
+12,STP,1,ST,11.103057
+12,STP,1,CT,10.061219
+12,STP,1,SCT,12.552093
+12,STP,2,S,4.0738529
+12,STP,2,C,5.92639175
+12,STP,2,T,5.630127
+12,STP,2,SC,11.828063
+12,STP,2,ST,11.328124
+12,STP,2,CT,10.449891
+12,STP,2,SCT,17.912415
+12,STP,3,S,2.3318487
+12,STP,3,C,3.48852501
+12,STP,3,T,8.69751
+12,STP,3,SC,13.804321
+12,STP,3,ST,10.868348
+12,STP,3,CT,9.225647
+12,STP,3,SCT,15.155518
+12,STP,4,S,3.8925784
+12,STP,4,C,7.431762
+12,STP,4,T,5.591553
+12,STP,4,SC,8.904847
+12,STP,4,ST,7.873596
+12,STP,4,CT,9.542053
+12,STP,4,SCT,16.715393
+12,STP,5,S,2.1217041
+12,STP,5,C,2.333618875
+12,STP,5,T,3.7387702
+12,STP,5,SC,6.652344
+12,STP,5,ST,11.953613
+12,STP,5,CT,8.876221
+12,STP,5,SCT,13.903442
+12,Hand Tracking,1,S,7.512146
+12,Hand Tracking,1,C,2.5004275
+12,Hand Tracking,1,T,4.547546
+12,Hand Tracking,1,SC,11.523316
+12,Hand Tracking,1,ST,17.42459
+12,Hand Tracking,1,CT,13.442016
+12,Hand Tracking,1,SCT,19.1232
+12,Hand Tracking,2,S,4.2531122
+12,Hand Tracking,2,C,3.1690064
+12,Hand Tracking,2,T,5.531006
+12,Hand Tracking,2,SC,13.668458
+12,Hand Tracking,2,ST,15.601563
+12,Hand Tracking,2,CT,7.122375
+12,Hand Tracking,2,SCT,13.069703
+12,Hand Tracking,3,S,5.9262086
+12,Hand Tracking,3,C,5.3541871
+12,Hand Tracking,3,T,11.495117
+12,Hand Tracking,3,SC,11.048035
+12,Hand Tracking,3,ST,15.573181
+12,Hand Tracking,3,CT,8.543213
+12,Hand Tracking,3,SCT,15.71112
+12,Hand Tracking,4,S,5.396118
+12,Hand Tracking,4,C,4.141846
+12,Hand Tracking,4,T,17.662598
+12,Hand Tracking,4,SC,13.387695
+12,Hand Tracking,4,ST,21.350221
+12,Hand Tracking,4,CT,12.66455
+12,Hand Tracking,4,SCT,21.852539
+12,Hand Tracking,5,S,7.442992
+12,Hand Tracking,5,C,3.4467772
+12,Hand Tracking,5,T,5.382201
+12,Hand Tracking,5,SC,8.597046
+12,Hand Tracking,5,ST,17.759399
+12,Hand Tracking,5,CT,8.083252
+12,Hand Tracking,5,SCT,16.075318
+12,Meta Controller,1,S,5.9946289
+12,Meta Controller,1,C,8.5720827
+12,Meta Controller,1,T,6.078552
+12,Meta Controller,1,SC,18.53894
+12,Meta Controller,1,ST,11.201782
+12,Meta Controller,1,CT,19.860413
+12,Meta Controller,1,SCT,21.184021
+12,Meta Controller,2,S,9.39276
+12,Meta Controller,2,C,1.8873896
+12,Meta Controller,2,T,4.030335
+12,Meta Controller,2,SC,14.29309
+12,Meta Controller,2,ST,11.327088
+12,Meta Controller,2,CT,15.865723
+12,Meta Controller,2,SCT,21.921875
+12,Meta Controller,3,S,6.3147589
+12,Meta Controller,3,C,4.1713872
+12,Meta Controller,3,T,4.574219
+12,Meta Controller,3,SC,11.300476
+12,Meta Controller,3,ST,13.569458
+12,Meta Controller,3,CT,10.366089
+12,Meta Controller,3,SCT,27.796139
+12,Meta Controller,4,S,6.915527
+12,Meta Controller,4,C,5.159545805
+12,Meta Controller,4,T,5.980591
+12,Meta Controller,4,SC,16.865967
+12,Meta Controller,4,ST,10.979493
+12,Meta Controller,4,CT,10.032471
+12,Meta Controller,4,SCT,23.286259
+12,Meta Controller,5,S,4.894653
+12,Meta Controller,5,C,2.625610875
+12,Meta Controller,5,T,3.238037
+12,Meta Controller,5,SC,7.693237
+12,Meta Controller,5,ST,12.399902
+12,Meta Controller,5,CT,11.702027
+12,Meta Controller,5,SCT,24.874391
+13,STP,1,S,6.5658562
+13,STP,1,C,17.1602783
+13,STP,1,T,5.535157
+13,STP,1,SC,16.129943
+13,STP,1,ST,34.995361
+13,STP,1,CT,17.981324
+13,STP,1,SCT,29.023007
+13,STP,2,S,3.7399898
+13,STP,2,C,6.121948
+13,STP,2,T,3.768432
+13,STP,2,SC,12.120728
+13,STP,2,ST,15.921631
+13,STP,2,CT,17.743165
+13,STP,2,SCT,31.277217
+13,STP,3,S,4.349853
+13,STP,3,C,2.988769
+13,STP,3,T,4.716553
+13,STP,3,SC,12.230469
+13,STP,3,ST,12.580079
+13,STP,3,CT,19.41601
+13,STP,3,SCT,26.29358
+13,STP,4,S,5.5206
+13,STP,4,C,5.827378
+13,STP,4,T,6.832733
+13,STP,4,SC,10.434288
+13,STP,4,ST,12.582184
+13,STP,4,CT,12.382751
+13,STP,4,SCT,23.076126
+13,STP,5,S,4.964112
+13,STP,5,C,6.859345
+13,STP,5,T,7.678345
+13,STP,5,SC,21.532806
+13,STP,5,ST,11.940247
+13,STP,5,CT,16.366851
+13,STP,5,SCT,22.213653
+13,Hand Tracking,1,S,9.27951
+13,Hand Tracking,1,C,12.0077825
+13,Hand Tracking,1,T,5.869537
+13,Hand Tracking,1,SC,8.669678
+13,Hand Tracking,1,ST,15.099365
+13,Hand Tracking,1,CT,14.279694
+13,Hand Tracking,1,SCT,21.365206
+13,Hand Tracking,2,S,9.699219
+13,Hand Tracking,2,C,11.438293
+13,Hand Tracking,2,T,9.698181
+13,Hand Tracking,2,SC,10.032837
+13,Hand Tracking,2,ST,21.587344
+13,Hand Tracking,2,CT,9.127441
+13,Hand Tracking,2,SCT,15.266663
+13,Hand Tracking,3,S,7.6791378
+13,Hand Tracking,3,C,1.5812378
+13,Hand Tracking,3,T,6.064881
+13,Hand Tracking,3,SC,18.90155
+13,Hand Tracking,3,ST,12.38556
+13,Hand Tracking,3,CT,8.263672
+13,Hand Tracking,3,SCT,23.28595
+13,Hand Tracking,4,S,9.099365
+13,Hand Tracking,4,C,4.101562
+13,Hand Tracking,4,T,5.660278
+13,Hand Tracking,4,SC,9.475586
+13,Hand Tracking,4,ST,19.875366
+13,Hand Tracking,4,CT,15.628784
+13,Hand Tracking,4,SCT,17.272462
+13,Hand Tracking,5,S,9.6572271
+13,Hand Tracking,5,C,2.9312745
+13,Hand Tracking,5,T,6.287232
+13,Hand Tracking,5,SC,21.503543
+13,Hand Tracking,5,ST,15.504151
+13,Hand Tracking,5,CT,8.487182
+13,Hand Tracking,5,SCT,15.072632
+13,Meta Controller,1,S,16.826783
+13,Meta Controller,1,C,2.584472804
+13,Meta Controller,1,T,3.669922
+13,Meta Controller,1,SC,61.42035
+13,Meta Controller,1,ST,21.267087
+13,Meta Controller,1,CT,11.242676
+13,Meta Controller,1,SCT,27.601929
+13,Meta Controller,2,S,8.055909
+13,Meta Controller,2,C,10.897766051
+13,Meta Controller,2,T,11.674011
+13,Meta Controller,2,SC,21.184753
+13,Meta Controller,2,ST,24.3449772
+13,Meta Controller,2,CT,18.149108
+13,Meta Controller,2,SCT,21.946897
+13,Meta Controller,3,S,19.583497
+13,Meta Controller,3,C,2.458862205
+13,Meta Controller,3,T,4.4906
+13,Meta Controller,3,SC,23.772949
+13,Meta Controller,3,ST,25.181035
+13,Meta Controller,3,CT,20.3762177
+13,Meta Controller,3,SCT,31.723019
+13,Meta Controller,4,S,22.297363
+13,Meta Controller,4,C,7.777465945
+13,Meta Controller,4,T,3.0562744
+13,Meta Controller,4,SC,16.896973
+13,Meta Controller,4,ST,7.01233
+13,Meta Controller,4,CT,7.915771
+13,Meta Controller,4,SCT,23.048584
+13,Meta Controller,5,S,10.213501805
+13,Meta Controller,5,C,0.064575199
+13,Meta Controller,5,T,2.4866939
+13,Meta Controller,5,SC,29.78894
+13,Meta Controller,5,ST,10.936035
+13,Meta Controller,5,CT,18.0649388
+13,Meta Controller,5,SCT,27.86621
+14,STP,1,S,8.441651
+14,STP,1,C,4.1640013
+14,STP,1,T,6.968933
+14,STP,1,SC,9.440612
+14,STP,1,ST,11.119934
+14,STP,1,CT,13.121337
+14,STP,1,SCT,22.715881
+14,STP,2,S,4.552674
+14,STP,2,C,2.6086421
+14,STP,2,T,6.31549
+14,STP,2,SC,11.76233
+14,STP,2,ST,11.648681
+14,STP,2,CT,9.355775
+14,STP,2,SCT,19.924499
+14,STP,3,S,4.371948
+14,STP,3,C,6.8725582
+14,STP,3,T,7.066406
+14,STP,3,SC,7.78894
+14,STP,3,ST,11.135987
+14,STP,3,CT,10.397339
+14,STP,3,SCT,16.174683
+14,STP,4,S,6.260253
+14,STP,4,C,4.6083977
+14,STP,4,T,12.107178
+14,STP,4,SC,13.148804
+14,STP,4,ST,13.427001
+14,STP,4,CT,11.648193
+14,STP,4,SCT,20.604981
+14,STP,5,S,6.318236
+14,STP,5,C,2.3997803
+14,STP,5,T,6.30066
+14,STP,5,SC,9.676879
+14,STP,5,ST,12.03833
+14,STP,5,CT,14.050293
+14,STP,5,SCT,17.883789
+14,Hand Tracking,1,S,10.260407
+14,Hand Tracking,1,C,3.2899774
+14,Hand Tracking,1,T,7.107971
+14,Hand Tracking,1,SC,8.954864
+14,Hand Tracking,1,ST,17.648442
+14,Hand Tracking,1,CT,30.519588
+14,Hand Tracking,1,SCT,15.813691
+14,Hand Tracking,2,S,7.4682
+14,Hand Tracking,2,C,3.7476805
+14,Hand Tracking,2,T,7.538086
+14,Hand Tracking,2,SC,18.454254
+14,Hand Tracking,2,ST,14.67572
+14,Hand Tracking,2,CT,15.356811
+14,Hand Tracking,2,SCT,23.743714
+14,Hand Tracking,3,S,7.830138
+14,Hand Tracking,3,C,3.5804435
+14,Hand Tracking,3,T,6.356994
+14,Hand Tracking,3,SC,11.940551
+14,Hand Tracking,3,ST,17.828369
+14,Hand Tracking,3,CT,8.621704
+14,Hand Tracking,3,SCT,19.785522
+14,Hand Tracking,4,S,6.5391846
+14,Hand Tracking,4,C,3.2047116
+14,Hand Tracking,4,T,4.80133
+14,Hand Tracking,4,SC,10.134887
+14,Hand Tracking,4,ST,10.330444
+14,Hand Tracking,4,CT,11.440978
+14,Hand Tracking,4,SCT,13.606445
+14,Hand Tracking,5,S,6.372193
+14,Hand Tracking,5,C,2.4411621
+14,Hand Tracking,5,T,5.455689
+14,Hand Tracking,5,SC,13.675659
+14,Hand Tracking,5,ST,11.399169
+14,Hand Tracking,5,CT,8.705444
+14,Hand Tracking,5,SCT,16.508667
+14,Meta Controller,1,S,7.384948
+14,Meta Controller,1,C,9.9006346
+14,Meta Controller,1,T,6.886658
+14,Meta Controller,1,SC,20.300471
+14,Meta Controller,1,ST,22.036377
+14,Meta Controller,1,CT,18.215149
+14,Meta Controller,1,SCT,27.757016
+14,Meta Controller,2,S,11.176391
+14,Meta Controller,2,C,7.637329
+14,Meta Controller,2,T,9.34436
+14,Meta Controller,2,SC,18.645503
+14,Meta Controller,2,ST,43.6294
+14,Meta Controller,2,CT,17.731323
+14,Meta Controller,2,SCT,36.325317
+14,Meta Controller,3,S,6.983032
+14,Meta Controller,3,C,5.6075439
+14,Meta Controller,3,T,8.857177
+14,Meta Controller,3,SC,21.967651
+14,Meta Controller,3,ST,18.077881
+14,Meta Controller,3,CT,17.731201
+14,Meta Controller,3,SCT,27.021123
+14,Meta Controller,4,S,6.413818
+14,Meta Controller,4,C,4.482788
+14,Meta Controller,4,T,6.815918
+14,Meta Controller,4,SC,10.343628
+14,Meta Controller,4,ST,18.120483
+14,Meta Controller,4,CT,14.397583
+14,Meta Controller,4,SCT,16.897705
+14,Meta Controller,5,S,5.469239
+14,Meta Controller,5,C,5.2050784
+14,Meta Controller,5,T,6.552368
+14,Meta Controller,5,SC,12.870239
+14,Meta Controller,5,ST,11.412719
+14,Meta Controller,5,CT,22.077393
+14,Meta Controller,5,SCT,34.521239
+15,STP,1,S,8.582276
+15,STP,1,C,6.567749
+15,STP,1,T,5.672241
+15,STP,1,SC,10.368774
+15,STP,1,ST,12.272705
+15,STP,1,CT,13.582825
+15,STP,1,SCT,23.509951
+15,STP,2,S,5.186828
+15,STP,2,C,4.5743408
+15,STP,2,T,5.006958
+15,STP,2,SC,11.174317
+15,STP,2,ST,10.033631
+15,STP,2,CT,9.988709
+15,STP,2,SCT,15.713135
+15,STP,3,S,9.406494
+15,STP,3,C,3.3348394
+15,STP,3,T,4.504517
+15,STP,3,SC,10.534424
+15,STP,3,ST,10.576661
+15,STP,3,CT,9.696412
+15,STP,3,SCT,17.703858
+15,STP,4,S,10.296264
+15,STP,4,C,2.6961673
+15,STP,4,T,5.131348
+15,STP,4,SC,14.334472
+15,STP,4,ST,9.530883
+15,STP,4,CT,12.760498
+15,STP,4,SCT,17.34192
+15,STP,5,S,3.808838
+15,STP,5,C,2.3887939
+15,STP,5,T,4.366699
+15,STP,5,SC,12.523071
+15,STP,5,ST,8.209107
+15,STP,5,CT,13.553711
+15,STP,5,SCT,17.092041
+15,Hand Tracking,1,S,13.331452
+15,Hand Tracking,1,C,3.0432131
+15,Hand Tracking,1,T,5.383148
+15,Hand Tracking,1,SC,13.915955
+15,Hand Tracking,1,ST,13.66626
+15,Hand Tracking,1,CT,11.604309
+15,Hand Tracking,1,SCT,24.359528
+15,Hand Tracking,2,S,13.66571
+15,Hand Tracking,2,C,3.8233634
+15,Hand Tracking,2,T,4.672302
+15,Hand Tracking,2,SC,27.073059
+15,Hand Tracking,2,ST,15.656677
+15,Hand Tracking,2,CT,11.74469
+15,Hand Tracking,2,SCT,24.483703
+15,Hand Tracking,3,S,10.894837
+15,Hand Tracking,3,C,2.1797485
+15,Hand Tracking,3,T,4.783569
+15,Hand Tracking,3,SC,15.949463
+15,Hand Tracking,3,ST,18.358032
+15,Hand Tracking,3,CT,8.404358
+15,Hand Tracking,3,SCT,19.708496
+15,Hand Tracking,4,S,10.325745
+15,Hand Tracking,4,C,2.7368167
+15,Hand Tracking,4,T,4.727051
+15,Hand Tracking,4,SC,24.596191
+15,Hand Tracking,4,ST,21.002685
+15,Hand Tracking,4,CT,8.556336
+15,Hand Tracking,4,SCT,19.526612
+15,Hand Tracking,5,S,9.863892
+15,Hand Tracking,5,C,1.9152831
+15,Hand Tracking,5,T,4.923827
+15,Hand Tracking,5,SC,14.182129
+15,Hand Tracking,5,ST,16.437012
+15,Hand Tracking,5,CT,10.811645
+15,Hand Tracking,5,SCT,19.318112
+15,Meta Controller,1,S,18.442993
+15,Meta Controller,1,C,5.74346877
+15,Meta Controller,1,T,9.406494
+15,Meta Controller,1,SC,40.605168
+15,Meta Controller,1,ST,15.780518
+15,Meta Controller,1,CT,16.867859
+15,Meta Controller,1,SCT,24.344976
+15,Meta Controller,2,S,9.963073
+15,Meta Controller,2,C,3.725524875
+15,Meta Controller,2,T,6.217651
+15,Meta Controller,2,SC,32.850395
+15,Meta Controller,2,ST,20.460327
+15,Meta Controller,2,CT,14.807862
+15,Meta Controller,2,SCT,21.044556
+15,Meta Controller,3,S,13.178833
+15,Meta Controller,3,C,10.060303
+15,Meta Controller,3,T,7.010132
+15,Meta Controller,3,SC,20.766967
+15,Meta Controller,3,ST,16.992675
+15,Meta Controller,3,CT,13.415772
+15,Meta Controller,3,SCT,23.9552
+15,Meta Controller,4,S,9.460693
+15,Meta Controller,4,C,5.074584945
+15,Meta Controller,4,T,11.132569
+15,Meta Controller,4,SC,17.690433
+15,Meta Controller,4,ST,13.332397
+15,Meta Controller,4,CT,18.218752
+15,Meta Controller,4,SCT,21.908324
+15,Meta Controller,5,S,14.641113
+15,Meta Controller,5,C,10.631591
+15,Meta Controller,5,T,4.462769
+15,Meta Controller,5,SC,18.509034
+15,Meta Controller,5,ST,12.149658
+15,Meta Controller,5,CT,9.517822
+15,Meta Controller,5,SCT,17.981324
+16,STP,1,S,2.6816409
+16,STP,1,C,3.503784
+16,STP,1,T,6.537476
+16,STP,1,SC,8.9906
+16,STP,1,ST,11.549194
+16,STP,1,CT,8.484253
+16,STP,1,SCT,18.886963
+16,STP,2,S,2.6257326
+16,STP,2,C,2.4724125
+16,STP,2,T,6.092407
+16,STP,2,SC,10.269165
+16,STP,2,ST,11.061157
+16,STP,2,CT,8.541992
+16,STP,2,SCT,16.046631
+16,STP,3,S,2.9877935
+16,STP,3,C,1.3304444
+16,STP,3,T,6.607666
+16,STP,3,SC,7.415039
+16,STP,3,ST,9.558838
+16,STP,3,CT,13.011718
+16,STP,3,SCT,24.67822
+16,STP,4,S,3.516235
+16,STP,4,C,3.8088384
+16,STP,4,T,5.786132
+16,STP,4,SC,9.515503
+16,STP,4,ST,9.572754
+16,STP,4,CT,11.66333
+16,STP,4,SCT,15.169434
+16,STP,5,S,3.947997
+16,STP,5,C,3.7089844
+16,STP,5,T,7.512574
+16,STP,5,SC,5.5354
+16,STP,5,ST,8.514283
+16,STP,5,CT,11.536499
+16,STP,5,SCT,19.11206
+16,Hand Tracking,1,S,10.742614
+16,Hand Tracking,1,C,3.0018315
+16,Hand Tracking,1,T,5.326416
+16,Hand Tracking,1,SC,10.282654
+16,Hand Tracking,1,ST,16.241517
+16,Hand Tracking,1,CT,9.26654
+16,Hand Tracking,1,SCT,27.476928
+16,Hand Tracking,2,S,6.690734
+16,Hand Tracking,2,C,2.9456176
+16,Hand Tracking,2,T,5.952758
+16,Hand Tracking,2,SC,13.861389
+16,Hand Tracking,2,ST,16.325378
+16,Hand Tracking,2,CT,9.69812
+16,Hand Tracking,2,SCT,22.882388
+16,Hand Tracking,3,S,16.255005
+16,Hand Tracking,3,C,2.361328
+16,Hand Tracking,3,T,4.602844
+16,Hand Tracking,3,SC,10.978637
+16,Hand Tracking,3,ST,14.236816
+16,Hand Tracking,3,CT,10.992433
+16,Hand Tracking,3,SCT,15.978333
+16,Hand Tracking,4,S,13.38855
+16,Hand Tracking,4,C,2.1104739
+16,Hand Tracking,4,T,4.560303
+16,Hand Tracking,4,SC,14.056152
+16,Hand Tracking,4,ST,12.941651
+16,Hand Tracking,4,CT,9.544434
+16,Hand Tracking,4,SCT,17.95459
+16,Hand Tracking,5,S,7.108399
+16,Hand Tracking,5,C,7.623292
+16,Hand Tracking,5,T,5.4104
+16,Hand Tracking,5,SC,19.402467
+16,Hand Tracking,5,ST,15.322265
+16,Hand Tracking,5,CT,8.445557
+16,Hand Tracking,5,SCT,18.232788
+16,Meta Controller,1,S,7.916504
+16,Meta Controller,1,C,5.506958
+16,Meta Controller,1,T,4.839172
+16,Meta Controller,1,SC,20.668333
+16,Meta Controller,1,ST,19.932006
+16,Meta Controller,1,CT,13.95752
+16,Meta Controller,1,SCT,17.495118
+16,Meta Controller,2,S,5.187378
+16,Meta Controller,2,C,5.381958
+16,Meta Controller,2,T,7.359253
+16,Meta Controller,2,SC,21.477783
+16,Meta Controller,2,ST,14.236084
+16,Meta Controller,2,CT,11.536011
+16,Meta Controller,2,SCT,24.846073
+16,Meta Controller,3,S,11.14856
+16,Meta Controller,3,C,2.9300539
+16,Meta Controller,3,T,4.64563
+16,Meta Controller,3,SC,14.22168
+16,Meta Controller,3,ST,21.643189
+16,Meta Controller,3,CT,22.881351
+16,Meta Controller,3,SCT,19.751221
+16,Meta Controller,4,S,6.857788
+16,Meta Controller,4,C,6.522827
+16,Meta Controller,4,T,8.000732
+16,Meta Controller,4,SC,25.402954
+16,Meta Controller,4,ST,14.500855
+16,Meta Controller,4,CT,10.130005
+16,Meta Controller,4,SCT,26.766971
+16,Meta Controller,5,S,4.2406001
+16,Meta Controller,5,C,14.5430904
+16,Meta Controller,5,T,3.739502
+16,Meta Controller,5,SC,15.643066
+16,Meta Controller,5,ST,13.373291
+16,Meta Controller,5,CT,18.274658
+16,Meta Controller,5,SCT,16.99353
+17,STP,1,S,5.466004
+17,STP,1,C,14.125001
+17,STP,1,T,10.853088
+17,STP,1,SC,24.31519
+17,STP,1,ST,17.998535
+17,STP,1,CT,18.497192
+17,STP,1,SCT,25.401911
+17,STP,2,S,5.397278
+17,STP,2,C,9.392456
+17,STP,2,T,5.842163
+17,STP,2,SC,22.214538
+17,STP,2,ST,13.999207
+17,STP,2,CT,15.003297
+17,STP,2,SCT,22.087403
+17,STP,3,S,4.296143
+17,STP,3,C,3.6285405
+17,STP,3,T,4.741456
+17,STP,3,SC,28.646482
+17,STP,3,ST,9.948731
+17,STP,3,CT,11.882812
+17,STP,3,SCT,16.716186
+17,STP,4,S,4.6728522
+17,STP,4,C,10.3642585
+17,STP,4,T,4.615967
+17,STP,4,SC,16.146484
+17,STP,4,ST,15.295289
+17,STP,4,CT,15.016236
+17,STP,4,SCT,19.011597
+17,STP,5,S,2.9177248
+17,STP,5,C,3.6425779
+17,STP,5,T,4.074219
+17,STP,5,SC,11.954102
+17,STP,5,ST,7.372315
+17,STP,5,CT,17.466189
+17,STP,5,SCT,21.754639
+17,Hand Tracking,1,S,12.52414
+17,Hand Tracking,1,C,3.0575256
+17,Hand Tracking,1,T,5.480468
+17,Hand Tracking,1,SC,16.366393
+17,Hand Tracking,1,ST,15.740692
+17,Hand Tracking,1,CT,9.976257
+17,Hand Tracking,1,SCT,22.742889
+17,Hand Tracking,2,S,7.358764
+17,Hand Tracking,2,C,1.9298706
+17,Hand Tracking,2,T,3.683471
+17,Hand Tracking,2,SC,11.326294
+17,Hand Tracking,2,ST,13.415772
+17,Hand Tracking,2,CT,8.278809
+17,Hand Tracking,2,SCT,17.425049
+17,Hand Tracking,3,S,7.92981
+17,Hand Tracking,3,C,2.6113897
+17,Hand Tracking,3,T,3.808838
+17,Hand Tracking,3,SC,10.227661
+17,Hand Tracking,3,ST,11.605957
+17,Hand Tracking,3,CT,6.899903
+17,Hand Tracking,3,SCT,18.440796
+17,Hand Tracking,4,S,6.260071
+17,Hand Tracking,4,C,3.419678
+17,Hand Tracking,4,T,3.68335
+17,Hand Tracking,4,SC,13.205933
+17,Hand Tracking,4,ST,12.426819
+17,Hand Tracking,4,CT,7.067261
+17,Hand Tracking,4,SCT,15.377807
+17,Hand Tracking,5,S,6.983398
+17,Hand Tracking,5,C,4.282105
+17,Hand Tracking,5,T,4.142944
+17,Hand Tracking,5,SC,13.595825
+17,Hand Tracking,5,ST,12.34314
+17,Hand Tracking,5,CT,7.360229
+17,Hand Tracking,5,SCT,16.353027
+17,Meta Controller,1,S,10.840027
+17,Meta Controller,1,C,6.648865
+17,Meta Controller,1,T,3.586303
+17,Meta Controller,1,SC,19.638793
+17,Meta Controller,1,ST,15.490479
+17,Meta Controller,1,CT,8.500915
+17,Meta Controller,1,SCT,35.495052
+17,Meta Controller,2,S,11.675232
+17,Meta Controller,2,C,3.1282349
+17,Meta Controller,2,T,3.627931
+17,Meta Controller,2,SC,13.485169
+17,Meta Controller,2,ST,15.419067
+17,Meta Controller,2,CT,11.345459
+17,Meta Controller,2,SCT,23.157287
+17,Meta Controller,3,S,8.124999734
+17,Meta Controller,3,C,3.7937016
+17,Meta Controller,3,T,3.808106
+17,Meta Controller,3,SC,17.675903
+17,Meta Controller,3,ST,7.499268
+17,Meta Controller,3,CT,5.521485
+17,Meta Controller,3,SCT,27.672728
+17,Meta Controller,4,S,6.773926
+17,Meta Controller,4,C,4.379395
+17,Meta Controller,4,T,3.6698
+17,Meta Controller,4,SC,12.022705
+17,Meta Controller,4,ST,18.594239
+17,Meta Controller,4,CT,8.306397
+17,Meta Controller,4,SCT,34.132084
+17,Meta Controller,5,S,8.278443
+17,Meta Controller,5,C,2.709472216
+17,Meta Controller,5,T,5.117676
+17,Meta Controller,5,SC,16.269287
+17,Meta Controller,5,ST,19.374026
+17,Meta Controller,5,CT,8.15271
+17,Meta Controller,5,SCT,18.858765

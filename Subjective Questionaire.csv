@@ -1,0 +1,55 @@
+Subject,Device,Ease of Learning,Efficiency,Intuitivness,Consistency,Mental Demand,Physical Demand,Temporal Demand,Performance,Effort,Frustration
+p0,Hand Tracking,6,5,4,5,5.5,7.5,4,6.5,3,4.5
+p1,Hand Tracking,7,6,6,7,3.5,8.5,3.5,8,8.5,1
+p2,Hand Tracking,7,7,7,6,2,1.5,1,3,2.5,1
+p3,Hand Tracking,7,7,7,7,0.5,2,0.5,10,0.5,0.5
+p4,Hand Tracking,7,7,7,6,1,2,2,7,2.5,2.5
+p5,Hand Tracking,6,6,6,5,3,4,2,6,3,2
+p6,Hand Tracking,7,6,7,6,2,4,3,8,3,0
+p7,Hand Tracking,6,4,6,4,7,7,1.5,9,2,1.5
+p8,Hand Tracking,7,3,7,4,3,8.5,1,5.5,5,1
+p9,Hand Tracking,7,3,6,6,4,8,2,7,7.5,0
+p10,Hand Tracking,5,4,7,6,7,7,2,8,5,1
+p11,Hand Tracking,7,5,7,7,0.5,4.5,0,10,4,0
+p12,Hand Tracking,7,5,6,3,4.5,7.5,4,6.5,6,1.5
+p13,Hand Tracking,7,7,6,6,5,6,1.5,8.5,8,2.5
+p14,Hand Tracking,6,7,7,6,2,2,1,9,2,2
+p15,Hand Tracking,7,7,7,6,1,1,2,9,1,1
+p16,Hand Tracking,7,1,6,2,3,8.5,8.5,4,3.5,8.5
+p17,Hand Tracking,7,7,7,6,2,2,1,8,4,1
+p0,Meta Controller,4,6,5,4,6,6,5,6.5,6.5,5.5
+p1,Meta Controller,5,5,6,7,6,4,2,7.5,5,1.5
+p2,Meta Controller,6,6,6,5,5,1,3,9,3,1
+p3,Meta Controller,7,6,7,6,1,0.5,2,9.5,1.5,1.5
+p4,Meta Controller,5,4,3,3,6.5,9,7.5,4,7.5,6.5
+p5,Meta Controller,5,5,5,3,4,2,2,5,4,2
+p6,Meta Controller,2,3,1,4,4,3,2,7,3.5,0.5
+p7,Meta Controller,3,4,3,4,6,2.5,1,6,3.5,5
+p8,Meta Controller,6,5,7,5,2.5,2.5,1,7.5,8,2
+p9,Meta Controller,6,4,6,5,4,4,2,7,6,0
+p10,Meta Controller,2,6,5,7,4,5.5,1,10,3,5
+p11,Meta Controller,6,4,3,3,3,2,0,6,2,4
+p12,Meta Controller,2,2,2,2,8.5,5,3,3,7.5,4
+p13,Meta Controller,3,5,5,2,3,3,4.5,4.5,6.5,2
+p14,Meta Controller,5,6,6,5,3.5,3,2,8,4,3.5
+p15,Meta Controller,6,5,7,7,4,1,3,9,2,1
+p16,Meta Controller,2,6,5,6,6.5,3,3.5,7,6.5,4
+p17,Meta Controller,3,4,5,3,8,7.5,5.5,5,6.5,4.5
+p0,STP(Squeeze to Pop),7,7,6,6,6.5,3,3,7.5,4.5,2.5
+p1,STP(Squeeze to Pop),5,5,6,7,5,7,3,7,8,2
+p2,STP(Squeeze to Pop),5,5,4,6,1.5,1,1,5.5,6,5.5
+p3,STP(Squeeze to Pop),7,7,7,6,1,0.5,0.5,9.5,1.5,0.5
+p4,STP(Squeeze to Pop),7,5,6,5,4,2,6,4.5,4,6
+p5,STP(Squeeze to Pop),5,6,7,7,5,5,1,6,4,2
+p6,STP(Squeeze to Pop),5,5,5,6,3,1,2,7.5,2,0
+p7,STP(Squeeze to Pop),3,3,4,5,6.5,1.5,1,7,3.5,1
+p8,STP(Squeeze to Pop),7,7,6,7,1,3,0,8,1.5,1
+p9,STP(Squeeze to Pop),6,6,6,6,4,4,2,6,5,0
+p10,STP(Squeeze to Pop),7,6,7,6,1,2,0.5,10,2,1
+p11,STP(Squeeze to Pop),6,7,4,7,2,0.5,0,8.5,2,0.5
+p12,STP(Squeeze to Pop),5,7,5,5,4,2,4,7,3,3
+p13,STP(Squeeze to Pop),6,5,4,7,6.5,3.5,2,5,6.5,1.5
+p14,STP(Squeeze to Pop),6,7,6,7,2.5,1.5,1.5,8.5,2,1.5
+p15,STP(Squeeze to Pop),7,6,7,7,1,0.5,3,9,2,1
+p16,STP(Squeeze to Pop),3,2,4,6,8,9,6.5,3.5,7.5,6
+p17,STP(Squeeze to Pop),5,5,6,5,7,8,4,6.5,6.5,3
